@@ -1,0 +1,20 @@
+COMANDOS DOCKER:
+docker-compose up -d -> subir o container
+docker ps -> processos startado
+docker container list -a
+docker start container id -> reinicia o container - zerou o banco de dados, no curso o Rodrigo diz para usar:
+docker-compose up -d -> TESTAR
+
+DART COMANDOS:
+pub run build_runner watch -> gerar as classes necessárias para o projeto
+
+
+
+
+FLUTTER:
+Extensão para adicionar package: pubspec assist
+Uso: command_shift p e procurar por pubspec assist e depois informar o package
+
+
+
+parei em 1h e 40min minutos da segunda aula.
